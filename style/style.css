@@ -1,0 +1,27 @@
+div.rapper{
+    border: 1px solid black;
+    margin: 0 30%;
+    margin-top: 40px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 0 0 7px #000;
+    font-family: sans-serif;
+    }
+    p{
+    background: aqua;
+    border-radius: 5px;
+    border: 0px solid #1d7dd0;
+    margin: 20px 60px;
+    }
+    button{
+    padding: 3px 20px;
+    background-color: #f5f590;
+    border-radius: 5px;
+    border: 1px solid #aeb812;
+    }
+    button:hover {
+    cursor: pointer;
+    background-color: yellow;
+    font-weight: bold;
+    }
